@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'fangzheng';
+  src:
+          url('./fangzheng.eot?#font-spider') format('embedded-opentype'),
+          url('./fangzheng.woff') format('woff'),
+          url('./fangzheng.ttf') format('truetype'),
+          url('./fangzheng.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+html,body,h3{
+  font-family: "fangzheng";
+  font-weight: 100;
+}

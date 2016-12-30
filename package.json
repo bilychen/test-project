@@ -1,0 +1,18 @@
+{
+  "name": "815_project",
+  "version": "1.0.0",
+  "description": "thanksgiving_815",
+  "main": "index.html",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.yeshj.com:hujiang-business/thanksgiving815.git"
+  },
+  "author": "Mingkun Chenxue",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-font-spider": "^0.3.6"
+  }
+}
